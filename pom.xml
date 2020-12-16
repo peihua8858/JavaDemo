@@ -77,7 +77,24 @@
             <artifactId>ant</artifactId>
             <version>1.10.9</version>
         </dependency>
-
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.8</version>
+            <optional>true</optional>
+        </dependency>
+        <!--            Apk 包信息解析-->
+        <!--            <dependency>-->
+        <!--                <groupId>net.dongliu</groupId>-->
+        <!--                <artifactId>apk-parser</artifactId>-->
+        <!--                <version>2.6.9</version>-->
+        <!--            </dependency>-->
+        <!--            ios plist 文件生成-->
+        <dependency>
+            <groupId>com.googlecode.plist</groupId>
+            <artifactId>dd-plist</artifactId>
+            <version>1.23</version>
+        </dependency>
     </dependencies>
 
 </project>

@@ -1,0 +1,12 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/.gitignore
+.idea/compiler.xml
+.idea/jarRepositories.xml
+.idea/misc.xml
+.idea/uiDesigner.xml
+JavaDemo.iml
+src/main/java/com/fz/demo/excel/xml/
+src/main/resources/
+src/test/
+target/
